@@ -4,6 +4,16 @@ set -euo pipefail
 OPENWRT_TAG="${OPENWRT_TAG:-v25.12.4}"
 JOBS="${JOBS:-$(nproc)}"
 
+mkdir -p artifacts
+
+collect_debug() {
+  if [ -d openwrt ]; then
+    cp -a openwrt/.config artifacts/openwrt.config 2>/dev/null || true
+    (cd openwrt && ./scripts/diffconfig.sh > ../artifacts/openwrt.diffconfig) 2>/dev/null || true
+  fi
+}
+trap collect_debug EXIT
+
 if [ ! -d openwrt ]; then
   git clone --depth 1 --branch "$OPENWRT_TAG" https://github.com/openwrt/openwrt.git openwrt
 fi
@@ -22,7 +32,6 @@ if ! make -j"$JOBS" V=s; then
   make -j1 V=s
 fi
 
-mkdir -p ../artifacts
 cp -a bin/targets/rockchip/armv8/*hinlink_opc-h69k* ../artifacts/ 2>/dev/null || true
 cp -a bin/targets/rockchip/armv8/profiles.json ../artifacts/ 2>/dev/null || true
 cp -a bin/targets/rockchip/armv8/sha256sums ../artifacts/ 2>/dev/null || true

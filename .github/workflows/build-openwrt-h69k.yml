@@ -34,12 +34,15 @@ jobs:
           OPENWRT_TAG: ${{ inputs.openwrt_tag }}
           JOBS: 2
         run: |
+          mkdir -p artifacts
           chmod +x scripts/*.sh
-          ./scripts/build-openwrt-h69k.sh
+          set -o pipefail
+          ./scripts/build-openwrt-h69k.sh 2>&1 | tee artifacts/build.log
 
       - name: Upload artifacts
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: openwrt-h69k-25.12
           path: artifacts/*
-          if-no-files-found: error
+          if-no-files-found: warn
