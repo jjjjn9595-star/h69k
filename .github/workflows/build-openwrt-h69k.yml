@@ -29,6 +29,13 @@ jobs:
             unzip zlib1g-dev file wget python3 libelf-dev \
             ccache ecj fastjar java-propose-classpath zstd
 
+      - name: Free runner disk space
+        run: |
+          df -h
+          sudo rm -rf /usr/local/lib/android /opt/ghc /usr/share/dotnet /opt/hostedtoolcache/CodeQL || true
+          sudo docker image prune -af || true
+          df -h
+
       - name: Build firmware
         env:
           OPENWRT_TAG: ${{ inputs.openwrt_tag }}
@@ -38,6 +45,18 @@ jobs:
           chmod +x scripts/*.sh
           set -o pipefail
           ./scripts/build-openwrt-h69k.sh 2>&1 | tee artifacts/build.log
+
+      - name: Summarize failure log
+        if: failure()
+        run: |
+          if [ -f artifacts/build.log ]; then
+            {
+              echo "### Build log tail"
+              echo '```text'
+              tail -n 200 artifacts/build.log
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Upload artifacts
         if: always()
