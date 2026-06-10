@@ -1,0 +1,1854 @@
+LDR f
+'8653
+Scjb8!
+ H`8a
+R@hc8
+Tbhj8@<
+TbHk8fhj8@
+fHl8`Hk8jhj8
+fhf8Fa
+S"@A9
+q$@A9
+$*aja
+$*aja
+$*`j`
+ @@9 
+wAy/ 
+ @9?\
+a"@9I
+`x@9`
+"x@9"
+*ch`8
+ha8_W
+!Hz8b
+Tehax
+#B9c(
+``Y9`
+ H`8a
+,@9? 
+<@9?$
+D@9?$
+\@9?$
+d@9?4
+4$h#8c
+!RK5h
+3RK5h
+BRK5h
+-RK5h
+GGann
+<MDBS
+!!!check otp err
+Magic is not support
+Tag is overflow
+LPDDR2
+LPDDR3
+LPDDR4
+LPDDR4X
+Unknown Device
+ Col=
+ CS0 Row=
+ CS1 Row=
+ CS2 Row=
+ CS3 Row=
+ Die BW=
+ Size=
+col error
+row error
+can't support this cap
+0x%x 
+CA Training result:
+cs:%d %s:
+write leveling result:
+cs%d, DQS%d:tdqs:%d
+RX DQS Train result:
+cs%d, DQS%d:cyc:%d,oph:%d,dll:%d
+the read training result:
+DQS%d:0x%x, 
+      
+the write training result:
+unsupported dram type
+PHY drv:clk:%d,ca:%d,DQ:%d,odt:%d
+vrefinner:%d%%, vrefout:%d%%
+dram drv:%d,odt:%d
+lowest freq may be too high!!!
+clk skew:0x%x
+ %dus 
+error: write leveling timeout
+error: read training timeout
+error: read training error
+error cs 
+error: write training timeout
+error: cs 
+ write training error
+ECC enable
+pctl enable ecc
+calculate ddrconfig error
+warn:ddrconf row > 16
+ddrconfig:%d
+set ctl address map fail
+addrmap fail
+DTT cs0 error
+LP4 MR14:0x%x
+DTT cs
+vref_ca:
+error: CBT timeout
+cs %d:
+common info error
+detect 4 cs
+L%d:reinit fail
+all cs should be same row for 4cs board
+unknown device
+filling mem
+tdqss: cs%d 
+dqs%d: %dps, 
+get wrlvl value fail
+change to: 
+get tdqqs2dq:%d ps
+MHz(final freq)
+L%d:cap detect fail
+min  
+mid  
+max  
+range
+DDR Version V1.13 20220218
+!!!"!!!"x
+%%%"%%%"x
+%%'"%%'"x
+&&(P<
+$$(P<
+TaZ`8?
+ X`8a
+68"@@9
+S&Xb8
+S&Xb8
+Q#D@9
+ 8`.@
+*BTA*
+9i6@9
+@9k2_
+Z+!)9
+9h6@9H
+iR@xI
+=@9?e
+*e@9+a@9,]@9)Y@9j
+-@yJ}
+9@9?A
+)-@y)
+*A@9_
+T =@9
+Q@x@=
+Q@x@=
+2kB@9l
+m6@9*]
+iB@9?
+4hB@9
+9*5@9
+5@9)}
+SI%@9
+(!;9j
+C9cj@
+h"\9H
+Ii8Hi(8)
+Lih8mih8)
+MIi8Mi(8
+lIj8)
+mIi8mI*8lI)8mIj8
+@9lIl8
+%@9I}
+9(!f9
+ii8m!
+@9MM@8N
+Kiix)
+@y_! k
+A9hr@
+@yjN*
+;9h.@
+)?@@qa
+i"P)?
+Th:F9i>F9(
+Th:F9
+5h>F9
+ThBF9
+Tj:F9i>F9hBF9
+Tj:F9i>F9hBF9
+Th:F9
+5h>F9
+Th:F9h
+5h>F9
+Th:F9
+Th:F9
+Th:F9
+Th>F9iBF9(
+Nr*!N!
+Th:F9
+5h>F9
+H7@9I
+THS@9
+4ajy8
+)?@@qa
+T`R@9
+h2@9i"@9
+ym&@9I
+yi6@9L5
+ykR@9N)
+Tkm@9
+'B9)m
+y4Y@y4
+86h>@
+2i&B9
+}@yI1
+M5@9h*
+6h2@9
+T(K@9
+*@9h:
+:@9hB
+4vB@9
+"@9h2
+!I 8"
+Iii8aI 8b
+0123456789ABCDEF@0X
+0123456789abcdef@0x
+0123456789abcdefxp
+0123456789ABCDEFXP
+Emmc IO init.
+support nand flash type: slc
+Set SD Clk: %d, %d
+SetEmmcClk: %d, %d
+Enable PHY CLK: %d
+Boot1 Release Time: %s %s, version: %s
+SoftReset, %d us
+%d, low  : %x
+%d, high : %x
+EMMC_DLL_RXCLK = %x
+ret %x
+SD IO init %x
+Dec  9 2021
+15:28:55
+The device not support yet!
+...%s enter...
+die[%d], bad_blk[%d]
+%s nand ecc %x ecc %d
+%s %x err_ecc %d
+No.%d FLASH ID:%x %x %x %x %x %x
+flash_read_page
+nandc_flash_init
+flash_read_page_raw
+r: %x is bad block skip0
+w: %x is bad block skip0
+r: %x is bad block skip1
+w: %x is bad block skip1
+r: %x is bad block skip2
+%s blk %x count %x
+prog gpt: %x %x
+write_idblock %x %x
+flash_erase_block: %x %x %x
+write_idblock fix data %x %x %x
+write_idblock fail! %x %x %x %x
+copy %x %x %x
+nand_flash_density %x
+IdBlockReadData
+IDBlockWriteData
+FlashReadFacBbtData
+%s cache bitflip1
+%s recheck_buffer alloc failed
+%s page= %x ret= %x spare= %x
+sfc_nand id: %x %x %x
+spi nand reset d0=0x%x
+%s[0x%x], ret=0x%x
+data:
+spare:
+sfc_nand_read_page
+sfc_nand_check_bad_block
+sfc_nand_init
+sfc_nand_prog_page_raw
+e: %x is bad block skip0
+r: LBA=%x PBA=%x is bad block skip0
+w: LBA=%x PBA=%x is bad block skip0
+r: LBA=%x PBA%x read fail, exit0
+r: LBA=%x PBA=%x read fail, exit1
+w: LBA=%x PBA=%x is bad block, exit
+sfc_nand_density %x
+set_wps read nor flash status failed, ret=%d
+read nor flash status %x, unmask wps
+snor_read_data %x ret= %x
+snor_erase %x ret= %x
+snor_prog %x ret= %x
+%s  error %x
+sfc nor id: %x %x %x
+snor_wait_busy
+0x%02x,
+0x%04x,
+0x%08x,
+%s %p + 0x%x:
+usb3: TRB (%p) still owned by HW
+usb3: Endpoint Command Complete time %d
+usb3: Stream event for non-Bulk time %d
+usb3: Couldn't find suitable stream time %d
+usb3: FIFO Overrun time %d
+usb3: actual_length %d, req_length %d
+usb3: failed to kick transfers epnum %d
+usb3: %s: trbs_left %d, busy_slot %d, free_slot %d, max %d
+usb3: %s: resource_index %d
+usb3: Stream %d found and started
+usb3: ERROR: usb3: %s: failed to send STARTTRANSFER command
+usb3: %s: incomplete IN transfer
+usb3: %s
+usb3: epnum %d %s
+usb3: reason %s
+usb3: ep%d%s
+usb3: dma 0x%08x length %d%s%s
+usb3: %s: receive shot packet
+usb3: %s:  endpoint busy
+dwc3_endpoint_transfer_complete
+Transfer Active
+Transfer Not Active
+__dwc3_gadget_kick_transfer
+__dwc3_cleanup_done_trbs
+dwc3_prepare_trbs
+ last
+##############serialno_str = %s
+Update Success!
+powerOn %d
+UsbBoot ...%d
+id = %x vendor read error
+mmc: 
+%s EMMC already FFU!
+mmc: mmc_retune!
+mmc: ERROR: Card startup error!
+mmc: ERROR: Card did not respond to voltage select!
+%s %d block(s) of %d bytes (%p)
+mmc: ERROR: %s: return err (%d).
+MMC_RSP_NONE
+mmc: %s: end SD_CMD_APP_SEND_SCR
+mmc: %s: before SD_CMD_APP_SEND_SCR
+mmc_set_bus_width: %d
+init complete media->high_capacity: %d
+mmc: ERROR: %s failed, error %d
+mmc:  Revision %d.%d
+CURR STATE:%d
+mmc: mmc_switch index:%d, value:%d
+mmc: ERROR: mmc_read fail:%d
+mmc: ERROR: mmc_retune fail:%d
+mmc: ERROR: switch to high-speed from hs200 failed, err:%d
+mmc: ERROR: switch to hs400 failed, err:%d
+mmc: ERROR: switch to bus width for hs400 failed, err:%d
+mmc: mmc media info: version=%#x, tran_speed=%d
+mmc: mmc media info: capacity=%d
+mmc: ERROR: mmc write failed
+mmc: ERROR: tuning execution failed
+ERROR MMC rsp not supported
+mmc: ERROR: mmc fail to send stop cmd
+CMD_SEND:%d %p
+mmc read ret = %x
+mmc write ret = %x
+mmc: mmc info: raw_card_type=0x%x,mmc_avail_type=0x%x
+mmc:  media->ctrlr->caps=0x%x
+ %#8.8x
+          
+ %#8.8x
+MMC_RSP_R2
+ %#8.8x
+MMC_RSP_R3,4
+ %#8.8x
+MMC_RSP_R1b
+ %#8.8x
+MMC_RSP_R1,5,6,7 
+ %#8.8x
+mmc: ERROR: Status Error: %#8.8x
+mmc: ERROR: Timeout waiting card ready
+mmc: Man %06x Snr %u 
+mmc_hs400_to_hs200
+read1 :
+mmc: 
+%p ext_csd:
+write:
+WRITE
+mmc: %c%c
+mmc: Product %c%c%c%c
+version
+sd_change_freq
+emmc_timimg_detect
+mmc:  %2.2x
+mmc: ERROR: Error detected in status(0x%X)!
+mmc: ERROR: Tuning procedure failed.
+mmc: ERROR: Internal clock never stabilised.
+mmc: ERROR: Reset 0x%x never completed.
+mmc: ERROR: Controller never released inhibit bit(s), present state %#8.8x.
+mmc: set timing: %d
+mmc: ERROR: sdhci_send_tuning failed %d
+mmc: can_retune:%d, need_retune:%d
+mmc: sdhci_set_clock clock:%d, clock_base:%d
+mmc: ERROR: %s: MmcData corrupted: %d blocks of %d bytes
+mmc: ERROR: SDHCI:Transfer data timeout
+mmc: ERROR: shci dma desc overflow
+mmc: ERROR: %s: transfer error, stat %#x, adma error %#x, retry %d, cmd 0x%x
+mmc: host caps1:0x%x
+mmc: host ctrl_2:0x%x
+mmc: ERROR: SDHCI:Timeout for status update! cmd%d:0x%x, stat:0x%x, mask:0x%x
+mmc: host ctrl:0x%x
+mmc: host->version:0x%x
+mmc: host caps:0x%x
+mmc: tuning_done stat:0x%x
+mmc: ERROR: SDHCI ERR:cmd:0x%x,stat:0x%x
+mmc: ERROR: Hardware doesn't specify base clock frequency
+sdhci_complete_adma
+sdhci_setup_adma
+SDHCI fixed
+SDHCI card
+WR_REL_SET is %x %x
+wide = 4 pDataBuf=%x %x
+wide = 8 pDataBuf=%x %x
+mmc Ext_csd, ret=%x ,
+ Ext[226]=%x, bootSize=%x, 
+Ext[215]=%x, Ext[214]=%x, Ext[213]=%x, Ext[212]=%x,cap =%x REL=%x
+Ext[267]=%x, Ext[268]=%x, Ext[269]=%x
+emmc bus: 0x%x
+_WaitCardBusy timeout!!!!!!
+SDC_BusRequest 444-1  ---START_CMD timeout---  %s  %d
+SDC_BusRequest ---data crc error--- %d
+SDC_BusRequest ---wait for data timeout--- %d
+SDC_BusRequest:  CMD=%d START CMD ERROR %d
+SDC_BusRequest:  CMD=%d START_CMD ERROR %d
+SDC_BusRequest:  CMD=%d ChangeFreq ERROR %d
+SDC_BusRequest:  CMD=%d  START_CMD timeout %d
+SDC_BusRequest:  CMD=%d WaitCard Ready Timeout%d
+mmc%d:cmd%d,%x
+SDC ERR: 0x%x
+SDMMC_CMD=0x%x, SDMMC_RINISTS=0x%x, SDMMC_STATUS=0x%x
+DATA_BUSY:cmd=0x%x
+ SDC_BusRequest:  CMD=%d  SDC_RESP_TIMEOUT %d
+../src/common/emmc/hw_SDController.c
+_DataErrorHandle SEND STATUS timeout 
+HANDLING:Rsp timeout handle success, ReSend Read cmd
+_DataErrorHandle SEND STATUS ret=%x
+SDM_Write error=%lx count=%x ret=%x
+SDM_Read error=%lx ret=%x
+HANDLING:Send STOP cmd err:0x%x
+read repeatCount:0x%x
+_DataErrorHandle handleRet=0x%x
+SDC_UpdateCardFreq handleRet=0x%x
+UserCapSize=%dMB
+SdmmcInit=%x NOT PRESENT
+emmc reinit
+FwPartOffset=%lx , %x
+SdmmcInit=%x %x
+BootCapSize=%lx
+sd FwPartOffset=%lx
+run on sd0
+Magic(%x) is not support
+Tag is overflow
+Hash bad, magic(%x), orgHash=%x, nowHash=%x
+!!!!! error @ func:%s - line:%d
+ftl_malloc
+[Vendor ERROR]:Malloc failed!
+[Vendor ERROR]:Boot device type is invalid!
+[Vendor ERROR]:Vendor has no space left!
+@@@@@@@@@AAAAA@@@@@@@@@@@@@@@@@@
+          
+('En&,
+Il:vm=
+('En&,
+Il:vm=
+Il:vm=
+('Eo&,
+@fVsXv
+2~j|Xl
+ZX>\Tb
+-@?7/Q
+[a;<N
+MHO*0
+l:CI>
+%qkKO
+pIF83
+/26!B
+7]3s$
+fru&e9K
+>w|iI
+MlZ1.F
+O_pnsD
+o)S8T
+Il;<E
+T&eXI
+MGrej@
+Bn6Z}=e
+%-t_~
+Cw%cB
+\bZY6
+27BNB
+Y]KZ,8,
+t,$ ZX
+&hu+N
+O+&,J
+EQ_!U
+:h!*)
+w?7/1
+J2tw?Q
+/*=,'
+l#lJ[
+>hl;Dl-
+A,H0m0
+~z(dt
+ex?|L
+4t7Cq
+'bgJM
+o*>lg
+Y_!9,
+b"(:f>L
+M$n:.
+l1ab;
+x:e0|a
+s!V'2B
+\Koz\+p
+.:(-:
+p6|q~
+0kSH*
+R|)^z
+AEI@>
+&2ui%
++<oo)lJ
+CSyMu/
+%{xGE
+A,iP-Y'{
+({f A
+Sr_8W
+'Sa5`
+\t>s]
+p1MnRez
+r7fMB
+/*^dm
+X}(R<
+=(%o8
+B,-:N1
+M77=Cl
+S7gsQ
+S.#"[
+@(3fn
+L]0l#
+uW$qu
+d{xD^
+&Z]:e]&
+M@?b]Y
+!tco]eom9
+T$fu2#
+=y Ln 
+W<)?{ZFF
+ENX0.
+7 o]e
+Cd'PH
+W1/JSr#;
+HP-0'[
+j"W5Mn
+>Il8|
+uT${uu
+pvwk{
+>4<??
+zOO58'
+{w/Zb
+Il9DM>
+Z]`R<
+,7,$P
+yBU:u
+)Bm08[
+e3T6|
+R$'Rc
+ZX~T<
+=(!Tq'-
+_cLL>
+\@'ro
+f2uIe
+WNd?27"/
+@NS__
+ZKaBU
+oB4;o
+6zHrf
+\1.}C
+d,#hu
+n0u:h6j
+!tBo]eAm9
+HjNem
+o:\hA
+MdC1;
+_qj;,#
+q! 5tpn
+4d0TH
+nr!:h
+o6/J>
+lr#;r
+R5y]p
+B7uS_A
+nm0'[
+$M<2B'zc
+u'X,?
+vD-xDKM7
+Fek7xlUz
+>w|S-
+Md72<
+2Yzwt
+Zc\BU
+kd:dL5
+D@w^f
+'4/%,
+GEek5
+@kjBU
+K+/ j
+jSm%a
+eEek5yw
+n~i8h
+#lL>m
+k*lGO
++Rm0FlM
+wmMnr:6
+o*|*g
+$_1-}
+ Lwt7
+yt0n%W
+E*Oe!
+  ='eX
+elQ[A
+5\=Gw^y(
+H?jP-
+RN",b
+$l:"m
+SexZ4
+o&,J~
+.T<^H/5
+0cX}eMs
+"3 up~p`
+HLM^i
+pAI"NKI
+3r8ix;yt
+SF3[;
+BMh<RI
+[D~P@
+('Zq9,
+Hd:vu"
+ /Mf.$
+l:v<=
+('E~&,
+l:vm=
+ (il#/
+oYF~&A6
+Em:vk
+('En&,
+m:vm=
+n:vl?
+Il:vm=
+- @b',
+Il:vm=
++'EV',
+El:vm=
+VVJ%[
+Il:vm=
+Il:vm=
+('En&,
+Il:v|,
+G=YL*d
+('Eb&,
+Ol:vl=
+('En&,
+l:vm=
+JPmIgY
+('Eo&,
+l:vi?
+('En&,
+l:vB?
+9'E:&,
+oYT~7A
+Ym:vh?
+('En&,
+ym:vm=
+m:vm=
+VV&%?
+n:vm"
+M*d!@w
+XWE~',
+Il:vm=
+ 'E^',
+6<!M*d
+Jl:vo=
+)'E>$,
+Il:vm=
+('En&,
+Il:vm=
+<IL*d
+Il:vM=
+('Em&,
+('En&,
+Im:vc7
+('En&,
+oYF~"A
+]m:vk;
+('En&,
+}m:vo=
+m:vl<
+DV3%7
+3*(En',
+h:vl=
+/#Iz',
+oYE~S
+(%EZ',
+`xIl:vm=
+<!M*d
+.'C*$,
+Il:vm=
+('En&,
+Il:v`7
+('En&,
+Il:vm=
+6iL*d
+('En&,
+l:vm=
+('En&,
+Im:v|
+('En&,
+]m:vn9
+?Q:04
+m:vh=
+n:vm"
+('En&,
+Il:vm=
+('En&,
+Il:vm=
+('En&,
+Il:vm=
+('Eo&,
+9\o@-<
+r!.]~w
+MdTa/~
+&2"%a
++4ol&
+obNj(3
+gg<ZXNh3
+ZXAQ<@
+K:nvjt
+o$F:9
+MCWCzE
+q!S9t0
+ebjBy
+S<:L*
+eb,M!
+D@w^`
+0'3PB
+>]_:'
+tS'bk
+Il:vm=
+d54Z:P
+B@Vp.\8{
+B@Vp.\8{
+>tbc@
+bUhi;
+,bY`bF
+}1PHi?
+N2cXH
+[Ga\<
+&2&u$
+7Mo?7/-
+oj^('
+6zJ?~
+5x|Uh
+grOED
+:xGlRS
+Q?7/Q
++Ce~"4
+h9}('s'P$&
+PZty[
+4Z1.F
+04w)U_!
+6hC1,
+LYHGl
+<P8n <+I
+&Z5%d
+4Z1.F
+S-#gZ
+RKg1q
+OW(lK$g
+2wERB
+= ;^D
+(xwnh
+ocNj(3
+YY0`n
+*FaAn
+S-#$[
+yzE`;
+'Z6%|
+)N9NJ
+6_pns
+MdD14
+r1%e&n
+4xaU{
+Y@der
+7E18}
+uT$bux
+{NOtw
+M)*)6
+Y@veh
+Y}rezA
+0^|AT
+k]%+m9
+5%v&8
+:N*N*
+\7>W@
+~4<)L*[
+4ljByz
+Z?c,,
+u&eXj
+!GPHi~
+IC4_`B
+I:nvKt
+. T$eXO
+^l;lK
+$+qD#Z
+&_6%e
+OP(np
+B14cO
+@0y!h
+O_p.s
+'Sa5`
+A?)P-=
+34d?U
+)VmpFUM
+h`Z^b
+XO5Ao
+7&&.C
+/YK`bF
+wY l#F+u
+m9>)'
++x{rg
+5UAqK
+4/QGX
+'Z4%s&+
+OS16c
+S(:ot
+fm{s(
+}[y/-
+_H(tp
+R&@\<
+hAIj]
+AV}O",
+hh:'L=
+h.N,N
+N7 PJ
+,rd(PH
+GVX-p8
+,X-G3
+xtD{*
+PE\,'
+N!*)w
+VDxE~
+D-=xg
+'N(N\@veL
+!VYW0a
+u\=CzD
+0t7"Y_!]
+TL~&iI
+)Fmp]
+FXjByn
+~Uh:g
+Wj$*09a76q
+=A$40
+47@W_!
+?C1L~
+=S[BLXW
+'r$DD
+A~)Q-
+LJ(zpF
+F)hBy
+x0@d'
+X,$\o
+Y:4,&8
+m:=d=
+L\Pa:
+(%Nm&
+(0,$P
+>)m:BR>
+GEdM(o
+n:=m9
+>w?,w
+AlhQ-
+/*|('q
+zlTm4
+@P>[%p
+GW$fuT
+%,bNlb
+2!`ED
+W|du$=
+#(%.o',
+Z]^p<
+5x|U)?7
+XlKXg
+Y@de`
+=7Y&Dp
+gb 5%
+&r&-%
+g?7/.
+YNl6X
+4Z1.F
+@[5!bj3
+b4YGDXBO
+;N*99m
+^CT}h
+++N3N
+[<iLz
+R-0'[
+D@w^f
+T,IZg
+3.d T
+9Cw{2
+\78_C
+4Z1.F
+W.?7/
+OR(lp
+&(vVo
+'@ZrQ
+o|)?{
+h&xvU}?7/
+7^Y*~
+fX5%v
+<589i
+3?9Gz
+RPm0;K
+N 4fj
+1%q&(
+OY(lp
+L'4..
+mL(op
+'$64X
+6eeJ|
+'MaKXd
+Gw^d(
+>Ez\s
+&~2Yg;\
+DQ<$E
+D@w^`
+<Y';~
+>Ez}s
+S<:Iz
+q4.F%
+lQUo;ZA
+nvo*]
+4%dGk
+]U$qu#
+oeIgO
+@v^\)
+l#D[q
+I/CV5
+~vl:O
+_Gl*o
+"Zt!f
+@Pe:h
+l:"H?
+DxT~"
+o:hH:
+7G1=}
+.4xcU;
+Jp.#G
+obNj(3
+T16cl
+?05"l
+7G1=}
+54{ P
+-Q1.}
+&2u&e
+w\Lgm
+%mt3^
+ZH6>N[
+b;mQd
+PmpeoM
+O^(lp
+XB$bu
+u1W00
+Sr_&_M
+)GrOz,
+0J<X6^
+B@)Vm0
+>tw@{_!J.3,
+1P;3_
+B1"cO1
+>TLX+
+EdKPmpGY
+I*uyn
+z.D`1k
+lip-pDMM
+:TLXK
+u?7/N
+\>1:/
+Ljde-i
+#o+Dg
+0J<X6^
+n:"R5
+X`P|i
+W}du$=
+S9t0n
+NlgO5
+HPmp'Z
+/j}.g
+obNj(3
+)N6!C
+ZceXQ
+8wd%>
+$*)o*
+  5Vl
+_qU)l1
+/*>4/
+${yG K
+f*0QBw
+5:"R)
+o.\'CI
+&[5%e&
+s&It>
+ddds'
+A)U/$zG~
+2au$%
+I0"%m9
+~H<a6
+fXt$%
+ua:42
+Hw\&n
+g6R-b
+[UebF
+N_aX8
+24% V
+O|Yr?d
+5HC(D
+2w$@B
+8tu,E>Z
+l\Q-9
+%(YL`bF
+2t75P
+C|iL*[
+n[/H_YP/
+ibIS+
+EiOeW
+7^1+}
+&2c%e
+Lar7e*B
+oj\,'
+)Y/EiT
+B?sQ-
+oe\eO91
+4l%8Z
+2:DZB
+04z q_a?
+S-#&[
+L4Ril~
+LN(yp
+?L!*)
+ScF=rZF'
+GOzpd
+  uVn
+odNj(3
+G@1"c
+&_7%e
+4"o]e-m9
+-k#(%
+oj^h'
+&Z&ud
+<@:9i
+'U16cy.5Z
+!$fZD
+/j#(3
+[<iLz
+)T1.}C
+ b&u$
+ua),?
+XA$bu0
+aP|i^z
+7T9n.
+m5xdU
+6YG7ZQO
+}9J"X
+W}du$=
+MGS)v@
+n/=m=[U~w
+"cdm9
+Y,#1g
+n$,GC
+rQ<%?~
+19<JN
+lyb %
+P<$_z
+goZz;
+>Ih:'r1
+)F(n.
+ZXQQ0T
+fIdDB
+7%q&*
+x6lgO
+NxdYN
+W~du$=
+MFrq:(Q8
+RN6lJ~
+S>:]z
+[@teG(
+Mcmez 
+34_c#_a
+'a4%e
+t!fNZ
+ mp%[
+Gw~o(
+Y -aK[
+KqFaC
+>w|nA
+s!MF0]p@
+,g4n!,
+>w|L5*)
+!HPmp
+}('UN
+S(:_z
+dT1.}
+N tfj
+U15cb.5Z
+_2h&[RaP
+U&bjC
+4xdU{
+IM*PyCw?
+OW(lK
+y]76`
+_q*+l
+\78_C
+|@<h@zm
+;[U?w
+FOIPp
+4Z1.F
+&aU$%
+_q^(l
+h+N<NX@`e
++N+ND8
+)N"NF
+o]eqm9
+N<Sdz
+rd!PH
+CEek(
+89)3T
+_qK(fpE
+HkL*9
+6N*]^@{
+Eek5xdU
+obNj(3
+L]I5`
+2:gRB
+!yOOb
+9L!*)6+
+5^cU^a
+9J!*)s
+\zjBy
+hj{Hl`Z<r
+S<:Hz
+MdTao~
+'b!%e
+5xcUk47
+D@w^`
+_q^(lp
+c!0t0N
+&2 %e
+o *)U
+d^1,}&[
+ua:-?
+[<iLz
+nmaJ:
+D@w^`
+o?E?zZFD
+<L*99
+MdF14
+3*(,#
+H'1n."
+&r5%y
+lF|+g
+3t7?E
+w@E?Z
+Z|W,5
+1[$UB
+&r5%~
+EiO5KNb
+4Z1.F
+q!S14c
+/}{5k
+W83_*Y
+w\(lpP
+azeh8
+%-6WZ
+pIS83_
+RK&0..b
+hj?7/=
+&(5Vn
++:N*NO
+7l*y%L
+\ipD~
+u1Q00j
+&(vVh
+ol&|S
+TdkO5
+pSt0|h
+4T1.}
+&_!%e&+
+:9)H-
+5xdU.&
+u-`D~
+(Zm0Gu
+D\Y4%s
+Ih:CX=
+bfH:n
+4?7/n
+0Y@de
+~p&PS
+LH(tp
+^x!*)b
+v<)_z
+Y@dev,
+ocNj(3
+n:"v<
+LKtzx
+Sr_'[
+?E7BS
+.am:(
+34_#Q_a
+Z|)_|
+y.n[N
+4_1-}
+Y@ce=.
+M@uef
+1[$PB
+'|@y7l
+m`Ip8
+A,=r-='[
+6.A763
+.i!:h
+)Vmp'[M
+8Q7v,
+lF}.g
+TokGn
+)G1=}#
+w@%PJ2
+&{>>N
+MnrezA
+n)N>NJ
+@[A$bu
+{6@OO
+4Z1.F
+IXmp'_M
+6;xv:
+Y3Y_a(
+ZXNh3
+eoz\-p
+0jBy[
+1[$PB
+lF}.g
+!kAJt
++iM2R
+/j^@F
+(24w?]
+?ZU!w
+o.\F]M
+&[u&e
+OW(lK
+e@$cu'
+0BMw)
+A!K@mp
+= 'TQ
+$n3Wh
+)Fmp&
+d;TM"
+B_@p<
+'*.q 
+U+8V#
+}0YODXQ
+w/6Gl
+MdG1:}#
+J(xpQ
+*"0"*
+`eEek
+B@)Vmp&[
+)N?NLP76`
+.mirh
+l=ZU!
+Pm{'O
+_*p<G"
+NgjR<
+lIPmp'
+MdTao~
+Sr_GYM
+~=x3H
+4E1/}
+H35_!Q
+4C+\m
+> 'Wo.,
+pIq4s
+3+{T*h
+/j\('
+9ZU^w
+'2DDD
+u4'bf!#
+.7ez(
+]6YODZQ
+~on:C
+5ZU^w
+J4=Oc
+047 P
+9l-jaV
+yqZFC
+A,I0m
+%Q_a9
+^/I`z
+M.*)t
+b0-\c
+EiOe[
+&a!%d&oN
+wXvn;
+r7 j~
+(zmp^
+&xwUn
+Vm]%g
+O_p.s
+*+tAMF0
+p?7/%
+Y Q_a]O
+C`{(k
+2LTAjC
+=9&Lu
+vDtn9
+L*Ry*
+f0_Rb
+Md[2.
+q{J6"
+&K8DB-5E
+M)L*0
+4Z1.F
+#buae
+b!OFse
+;M7mn
+J$bgJ
+"cdm9
+rw`rB
+6{x#:
+'r''U
+,3,DPH
+^eP|i
+(xwnh
+]N*P--k
+S<:L*
+DEek5xbUVw7
+8XLX*
+',#%g
+' >t0
+ueK:n
+MdE3.c!a
+'$'E=d
+@[U$qu%
+@1 c(
+%-tSh
+L4Ril~
+5a5%s
+Z8a,|
+OGloS
+O]H/s
+|x?)'
+('4#&,
+x0p%'
+5&Jiq
+l:"R5
+P<%?{ZFe
+L>~Gl
+W{:`>
+48/+5
+"com9
+Y@O_a
+Td}{[
+&Z }g
+-xwUh
+.Pr:(
+@1"c.
+aP|i'
+XBLXj
+U$gu2
+|jBy.
+M$eFH)
+>Ez~]J
+G83_,Y
+rw'FB
+7R!..&
+7Zu e
+:N*NyB
+ocNj(3
+5C YK
+3(-,#
+~2=_@S_a
++',g?7/
+1(wNXw6e
+o?E_z
+tvjBy
+wYxms
+%qf @
+]/bjye
+5xbUul7
+\_hcB
+ I_tw
+(5-nK
+n;}2=
+O_(mp
+Z1.FB
+u4'bk
+W`bFJ2
+.Rdze
+%s%[`b
+9PLX4
+AlIT-pGmM
+/a}('
+>w|m!*)
+2n.AA
+.ZXQ|0
+)v-0GMM
+MdTa/~
+Sen[c
+cjByl
+|i<CZ
+$b"Ef
+O_p.s
+w:hw<
+MF{A1#
+LG^P(
+`99i+U
+wYxms
+@1'c,
+m&lJK
+V<iL*[
+34_"M_a
+x]DED
+OY(lp
+h:"m=
+7G1=}
+frqy%
+N 4fj
+4Z1.F
+@(3fn
+?L}HY
+>~m:B
+[<iLz
+ o]eg
+/L<6M
+`-I]-
+pST#,
+fYr&a
+jS)o`Z
+Ol:bR
+u'eXC
+,qen;
+x]$ED
+6*;F!A
+;sgz\Jt
+9bP<@
+l:Cm!Z
+P-0$GM
+&r5%d&
+dAe+(
+]('ln&
+<@99)
+>Ez?s
+yL *)
+~Sy:C4:
+oj>('|
+9(!*)W
+Sr_$GM
+(ehOT
+pvwLI&
+frj%p%~
+!bTL>
+mpt3,6
+tnjBy
+9-r/jqk
+w$+v%F
+ZXuQp
+wyJ8n
+>zhH:
+(xwnh
+S-#q_
+zAg_a
+DEukU{
+.i*+]
+@[F$bu
++'oN$,
+q!S14
+gO|Est
+A~(P-
+'S940
+hJ>uD
+l:"m9Z
+S=:J"
+2$DVB
+GOg(d
+lD"E?
+[mp%3,
+OW(lK
+('E/&,
+l:vm=
+x9x}ro
+;p'fnXi
+1L7prxt
+:/!z/
+,h'heJY
++r:xy~iJ
+Y-{7,|[
+('En.,
+Il:vm=
+pw5:,
+=mYF~
+F) A@1
+19YHF
+,d#lf:
+0^on\:&
+DKMSt:
+j<FP;
+IkM +z
+[laP<
+('Eh&,
+Hl:vl=
+aK\`SK:
+('Eo&,
+fmYF~
+Hl:ve=
+=-w5:,
+LamYF~
+('En.,
+/mYF~
+Il:vm=
+lamYF~
+Hl:vl=
+<ub(d
+('EvR.
+Hl:vl=
+X`SK:
+bmYF~
+Hl:vl=
+('E.&,
+RaaJv
+<!z(d
+('En.,
+/mYF~
+T8vm=
+-w5:,
+('En$,
+Id6vm5
+;5:%C
+Id7vm5
+:5:%A
+Id6vm5
+;5:%B
+Id7vm5
+:5:%@
+g`SK:
+('En&,
+]mYF~
+Id:v-=
+ow5:,
+Il:vm=
+4^.[i]
+h9vm=
+ye9vm=
+}9vm=
+Il:vm=
+('En&,
+Il:vm=
+uw5:,
+('En&,
+Cl:v`=
+ww5:,
+('mYF~
+Il:vm=
+a7VcSK:
+'Enf,
+Hl:vo=
+[`SK:
+kw5:,
+)'Dn&,
+Zkw5:,
+\('Dn&,
+Il:vl=
+lw5:,
+<('Dn&,
+Il:vm=
+mw5:,
+\('Dn&,
+M+d9Cw
+wmw5:,
+,'Dn&,
+Il:vm=
+('En&,
+In:vm=
+('Eo&,
+<1|(d
+mow5:,
+IM*Q.
+r|w5:,
+Il:vm=
+Il:vl=
+a{\`SK:
+('El&,
+Z8vm=
+('En.,
+2/mYF~
+)[8vm=
+-w5:,
+('En$,
+NSRQR
+*36sro?s
+x]eSi
+mv&n >{<
+0v/\~
+), 2S
+K#-0/e
+yDK6n
+)z9ui;:q
+(2asO
+$`<<|wxz
+UyF[#s
+?hA$N
+F{d`R
+eq8s~p?a
+62^`$
+;$]cu4
+ g!l3
+jp;nx4ps
+cfT9k
+(`LuX
+j;'xo
+30pqi{l
+0vHN 
+,~1sho?q
+ p7Cxu~w
+P:dzR
+!aTd{~m5
+yD-E,SJ
+8`jRI
+J5>^;$
+8~VHN:
+r$]?2F
+(r,1{izd
+H=tja
+K#-&W
+*`Tomw%5
+iI^|mNj
+@N5BTG
+;h'aoRi
+2r&y=lva
+-f3z"
+Pt--+/
+ap!%u
+V'MAzU
+E/:ss~!
+4%Sg 
+7?'s~}or
+A+jo_
+36UmrWb
+3ys~m|
+ER!hu~qa
+&{=l1it&
+m I"&
+o5H7-yV
+&x7ttk@g
++*~}2
+Oj?6r
+9`J:lO0
+w&8-/#* 
+Zl#~~9
+^sJ:q
+oY'a{
+4+<HlG
+j=a6S
+N^;vf
+('En&,
+Il:vm=
+('EnTJ
+Hl:vm=
+('Ed&,
+Hl:vl=
+('En`
+Il:vm=
+('E~4-
+('En&,
+Il2vl0
+Il:vm=
+('En&,
+Il:vM=
+('En&,
+M*QYl
+Il:vm=
+('En&,
+Il:vm=
+('En&,
+Il:vm=
+('En&,
+L('En&
+M*QYl
+Il:vm=
+('En&,
+M*QYl
+('En&,
+Il:vm=
+hw5:,
+('En&,
+H~:v]=
+('En&,
+('Ek&,
+Hm8v==
+('En&,
+Il:vM=
+('En&,
+<AM*d
+Il:vM=
+('En&,
+Il:vi=
+Il;vn5
+(#Em *
+!n;vm}
+('En&,
+Il:vm=
+('En&,
+Io:vm9
++'En&,
+K`8wa>
+-$Dz%,
+M*Q_l
+'mYF~
+Il:vm=
+('Eo&,
+Hm:vm=
+('En&,
+Kl:vm=
+('En&,
+Il:vm=
+('EoM,
+Il:vm=
+('El",
+HW:vm=
+('En&,
+Kh:vm=
+('El",
+uloYF~
+Il:vm=
+#u5:,
+('El&,
+Kh:vm=
+('En&,
+Kl:vm=
+('En&,
+Il:vm=
+Il:vm=
+('El',
+H^:vm=
+('En&,
+Km:vm=
+('En&,
+uSoYF~
+Il:vm=
+('Eo&,
+Il:vm=
+('En&,
+Hl:vl=
+ibSK:
+('En&,
+Il:vm=
+('En&,
+Il:vm=
+g`SK:
+,\mYF~
+Il:vm=
+y`SK:
+('En&,
+,@mYF~
+al:vm=
+('En&,
+Ra)kv
+('En&,
+Il:vm=
+('En&,
+Il:vm=
+('En&,
+Il:vm=
+('En&,
+l:vm=
+('En&,
+ol:vm=
+('En&,
+{l:vm=
+('En&,
+wl:vm=
+('En&,
+!nYF~
+l:vm=
+('En&,
+>Il:Nm=+@
+^(WjtVc
+\U)AA\
+0ZLv[
+yl:vm=
+L[rez
+('Fn&,
+('5n&,
+ia?/(-'8
+[Il:tm=
+uZVEn&,
+Il:um=
+?haP<
+('_n&,
+hc<e0rzp
+Il:um=
+Z|aP<
+C2CVO
+'En&,
+Il:Pm=
+@[YP-
+('2n&,
+04JD8l
+7t9ut
+Il:bm=
+('Un&,
+0v!yn6|z
+Il:vm=
+iDSEn&,
+06i0Q
+@:vm=
+SZ?pu
+('Fn&,
+Il:vm=
+k_zzNO
+M*dGrw
+Mlbez
+6Y2+3
+('An&/1
+v d,-+
+Il:fm=
+f4H?0>
+6Y2+3
+('En&,
+ip&emopc
+T5}}^
+('Fn&,
+Il:um=
+('Gn&,
+p%l1hh}'
+('En&,
+04u0Q
+g=ijD_
+('Gn&,
+Il:um=
+<kL I
+yl:vm=
+6YWDX
+Il:tm=
+YP-W'[
+('F~&,-
+1ky~hh-
+Z|aP<
+AKIP-
+('En&/^
+Il:rm=
+8g8ie
+('Fn&,
+'rmh3m
+Efy~rtk9
+rMK6nOC
+=?7sy~
+Il:vm=
+('En&,
+Il:vm=
+('En&,
+Il:vm=
