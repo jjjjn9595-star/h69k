@@ -14,6 +14,9 @@ thermal policy.
 - Kernel/rootfs partitions: 32 MiB / 512 MiB, matching the current H69K layout
 - Kernel: OpenWrt 25.12.4 default, Linux 6.12
 - Drivers: `kmod-r8125`, `kmod-hwmon-pwmfan`, `kmod-hwmon-gpiofan`
+- 5G/4G modem support: QMI, MBIM, NCM, RNDIS, USB serial option, USB ACM,
+  `usb-modeswitch`, `wwan`, `modemmanager`, and LuCI protocols for QMI/MBIM/
+  ModemManager
 - UI: LuCI with Chinese base/firewall translations
 - Overlay: `h69k-fan` helper and init script
 
